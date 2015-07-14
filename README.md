@@ -4,9 +4,12 @@ This is a template for Sherry Hills (Prom Dress Webpage) - St Marg's project.
 Main Website Design is for students to take a look at the different fashion styles for Proms/Dinner&Dance/any other events.
 Basically, there is Navigation Bar at the top of webpage for easy sorting of various types of Dresses.
 Navbar tabs include: Accessories (with dropdown options), Cocktail Dresses, Ballroom Gowns, Mini Dresses, Sheath Dresses & A-line dresses.
-1) There are missing TABS, so do fill them in BOTH "welcome.html" & "menu.html" files (e.g. Adding more lines after this code: <li><a href="#/menu/cocktail_d"> Cocktail Dresses </a></li>) 
+1) There are missing TABS, so do fill them in BOTH "welcome.html" & "menu.html" files (e.g. Adding more lines after this code: 
+
+        <li><a href="#/menu/cocktail_d"> Cocktail Dresses </a></li>) 
 
 Next thing we need to work on is the <!--Pictures--> segment within "welcome.html" file. These are pictures of the different categories of dress we have on our website. 
+
 2) So, just add on another 2 cards within the code (any questions, feel free to ask)! 
 
 3) Do change any information/ text within the "welcome.html" file (at the bottom of the page) as the information is just part of this template.
@@ -26,8 +29,9 @@ Just replace 'cocktail_d' with other names you give for the tabs.
 
 6) After, remember to add in the controllers in the "controllers.js" file too.
 So one basic set will look like this: 
+                        
         .controller ('earringsCtrl', function ($scope){
-        
+                        
         })
 
 7) JSON files
