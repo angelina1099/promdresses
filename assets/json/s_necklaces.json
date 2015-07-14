@@ -1,0 +1,25 @@
+[
+    {"category":"s_necklaces",
+    "productname":"White Statement Necklace",
+    "description":"Classy white necklace that can be matched with any pretty dress.",
+    "image":"whiteSnecklace.jpg"
+    },
+    
+    {"category":"s_necklaces",
+    "productname":"Arrow Statement Necklace",
+    "description":"Cool and simple necklace which is suitable for casual dining/ prom events.",
+    "image":"arrowSnecklace.jpg"
+    },
+    
+    {"category":"s_necklaces",
+    "productname":"",
+    "description":"...",
+    "image":""
+    },
+    
+    {"category":"s_necklaces",
+    "productname":"",
+    "description":"...",
+    "image":""
+    }
+    ]

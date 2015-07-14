@@ -1,0 +1,25 @@
+[
+    {"category":"c_necklaces",
+    "productname":"Black Choker",
+    "description":"Limited Edition Black Heart Choker",
+    "image":"blackchoker.jpg"
+    },
+    
+    {"category":"c_necklaces",
+    "productname":"Pearl Choker",
+    "description":"Beautiful calming pearl choker",
+    "image":"pearlchoker.jpg"
+    },
+    
+    {"category":"c_necklaces",
+    "productname":"Butterfly Choker",
+    "description":"Girly piece of art work, sophisticated wear",
+    "image":"butterfly_choker.jpg"
+    },
+    
+    {"category":"c_necklaces",
+    "productname":"Love Key Lock Choker",
+    "description":"Locking your love somewhere near your heart",
+    "image":"keylockchoker.jpg"
+    }
+    ]
